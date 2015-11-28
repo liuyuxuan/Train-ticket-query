@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "A2y-kx-NSY"; */
+"A2y-kx-NSY.normalTitle" = "查询";
+
+/* Class = "UILabel"; text = "历史记录"; ObjectID = "A7q-3y-d75"; */
+"A7q-3y-d75.text" = "历史记录";
+
+/* Class = "UIButton"; normalTitle = "2015年9月3日"; ObjectID = "A96-dh-VWu"; */
+"A96-dh-VWu.normalTitle" = "2015年9月3日";
+
+/* Class = "UITextField"; placeholder = "请输入你需要查询的车次"; ObjectID = "Bgi-0r-oFV"; */
+"Bgi-0r-oFV.placeholder" = "请输入你需要查询的车次";
+
+/* Class = "UINavigationItem"; title = "车次查询"; ObjectID = "EtI-gg-CYq"; */
+"EtI-gg-CYq.title" = "车次查询";
+
+/* Class = "UITabBarItem"; title = "车次查询"; ObjectID = "Gfp-Rn-2lK"; */
+"Gfp-Rn-2lK.title" = "车次查询";
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "O2G-GD-mQe"; */
+"O2G-GD-mQe.normalTitle" = "查询";
+
+/* Class = "UITextField"; placeholder = "请选择城市"; ObjectID = "UnD-rL-dPw"; */
+"UnD-rL-dPw.placeholder" = "请选择城市";
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "YSN-PE-x8j"; */
+"YSN-PE-x8j.normalTitle" = "查询";
+
+/* Class = "UILabel"; text = "学生票"; ObjectID = "cgW-ru-qxi"; */
+"cgW-ru-qxi.text" = "学生票";
+
+/* Class = "UIButton"; normalTitle = "上海"; ObjectID = "dRC-kT-IjQ"; */
+"dRC-kT-IjQ.normalTitle" = "上海";
+
+/* Class = "UILabel"; text = "只搜高铁和动车"; ObjectID = "fit-5g-qke"; */
+"fit-5g-qke.text" = "只搜高铁和动车";
+
+/* Class = "UIButton"; normalTitle = "地图定位"; ObjectID = "hx5-LJ-Czu"; */
+"hx5-LJ-Czu.normalTitle" = "地图定位";
+
+/* Class = "UIButton"; normalTitle = "北京"; ObjectID = "jBa-UO-wyv"; */
+"jBa-UO-wyv.normalTitle" = "北京";
+
+/* Class = "UINavigationItem"; title = "站站查询"; ObjectID = "jo3-vs-ddU"; */
+"jo3-vs-ddU.title" = "站站查询";
+
+/* Class = "UINavigationItem"; title = "代售点查询"; ObjectID = "lvC-xF-FRs"; */
+"lvC-xF-FRs.title" = "代售点查询";
+
+/* Class = "UITextField"; placeholder = "请选择地区"; ObjectID = "qHU-wp-0Ec"; */
+"qHU-wp-0Ec.placeholder" = "请选择地区";
+
+/* Class = "UILabel"; text = "出发日期"; ObjectID = "rJx-VF-vjS"; */
+"rJx-VF-vjS.text" = "出发日期";
+
+/* Class = "UITextField"; placeholder = "请选择省市"; ObjectID = "uke-xJ-wXW"; */
+"uke-xJ-wXW.placeholder" = "请选择省市";
